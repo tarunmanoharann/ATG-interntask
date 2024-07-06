@@ -47,7 +47,7 @@ const Header = () => {
                 <Image src={Cart} alt='Cart Icon' className='md:block hidden' />
                 <Image src={Menu} alt='Menu Icon' className='lg:hidden' />
                 {/* Sign In Button */}
-                <button className='text-[14px] text-[#8064A2] hover:text-white hover:bg-[#8064A2] duration-300 leading-[16px] font-semibold border-2 border-[#8064A2] rounded-lg px-8 py-3 lg:block hidden'>Sign In</button>
+                <button className='text-[14px] text-[#8064A2]  hover:bg-[#F0F0F0] duration-300 leading-[16px] font-semibold border-2 border-[#8064A2] rounded-lg px-9 py-2 lg:block hidden'>Sign In</button>
             </div>
         </div>
     );
